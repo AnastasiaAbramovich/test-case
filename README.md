@@ -4,6 +4,7 @@ A test case is a structured set of preconditions, input data, testing steps, and
 
 As part of my training practice, I created the following test cases:
 
+- [Testing Methods](https://docs.google.com/spreadsheets/d/1ODlpuHMSXo0mXH69HFjDCoiYTPOciWvzTqxpfKB8cUg/edit?usp=sharing)
 - [Test cases for an Online Store](https://docs.google.com/spreadsheets/d/1n7JJqbliyZ7G38zgekmOpd0uGrqjbMLQeIujpLhckRI/edit?usp=sharing)
 - [Test cases for an Online Store in Test IT](https://docs.google.com/spreadsheets/d/1wY75dD05Yyv59tcl-W14q5L7IVt09KYY/edit?usp=sharing&ouid=109821354030206725685&rtpof=true&sd=true)
 - [Test cases for a Mobile Application in Test IT](https://docs.google.com/spreadsheets/d/1AJPVy25pUcKp_yMzrUZqkLErUVYxZvib/edit?usp=sharing&ouid=109821354030206725685&rtpof=true&sd=true)
