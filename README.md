@@ -4,6 +4,7 @@ A test case is a structured set of preconditions, input data, testing steps, and
 
 As part of my training practice, I created the following test cases:
 
+- [Equivalent Partition](https://docs.google.com/spreadsheets/d/15LLYAHHlA8r15m97ae8MtbPCpYzo5tO8EPZEfVIWNcQ/edit?usp=sharing)
 - [Testing Methods](https://docs.google.com/spreadsheets/d/1ODlpuHMSXo0mXH69HFjDCoiYTPOciWvzTqxpfKB8cUg/edit?usp=sharing)
 - [Requirements Analysis](https://docs.google.com/spreadsheets/d/1RhLcq9_Zigse47o8LtIi9nZK9WO-RoNaPgmEc5qYoTQ/edit?usp=sharing)
 - [Test cases for an Online Store](https://docs.google.com/spreadsheets/d/1n7JJqbliyZ7G38zgekmOpd0uGrqjbMLQeIujpLhckRI/edit?usp=sharing)
